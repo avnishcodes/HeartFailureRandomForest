@@ -63,4 +63,4 @@ Feature importance bar chart
 🙌 Credits
 Dataset by Fedesoriano on Kaggle
 
-Project built by Avnish Singh
+Project built by: Avnish Singh
